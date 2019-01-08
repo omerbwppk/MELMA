@@ -1,0 +1,15 @@
+method,Activity,Excl,Incl
+onResume,MainActivity,8.1e-05,0.009083
+startRequestingLocation,MainActivity,0.00011,0.030028
+updateLocation,MainActivity,0.00634,1.324241
+updateLocation,MainActivity,0.00634,1.324241
+(Landroid/location/Location;)V,(Landroid/location/Location;)V,0,0
+validLocation,MainActivity,0.001603,0.413835
+(Landroid/location/Location;)Z,(Landroid/location/Location;)Z,0,0
+updateLocation,MainActivity,0.00634,1.324241
+validLocation,MainActivity,0.001603,0.413835
+getAccuracy,MainActivity,0.001316,0.00282
+(Landroid/location/Location;)Ljava/lang/String;,(Landroid/location/Location;)Ljava/lang/String;,0,0
+getLatitude,MainActivity,0.001207,0.166072
+getLongitude,MainActivity,0.001126,0.163906
+updateLocation,MainActivity,0.00634,1.324241

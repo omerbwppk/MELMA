@@ -1,0 +1,6 @@
+method,Activity,Excl,Incl
+calculateClickHandler,BMIMain,0.001297,0.431886
+calculateBMI,BMIMain,3.4e-05,3.4e-05
+interpretBMI,BMIMain,6.7e-05,6.7e-05
+calculateClickHandler,BMIMain,0.001297,0.431886
+calculateBMI,BMIMain,3.4e-05,3.4e-05

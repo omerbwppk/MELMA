@@ -1,0 +1,15 @@
+method,Activity,Excl,Incl
+onCreateOptionsMenu,MainActivity,2e-05,0.015347
+NotifyWroteGIF,MainActivity,3.8e-05,0.022449
+ClearAll,MainActivity,2.8e-05,0.002082
+onOptionsItemSelected,MainActivity,3.1e-05,0.003596
+onCreate,ViewActivity,0.000667,1.093756
+onCreateOptionsMenu,ViewActivity,3.7e-05,0.014639
+onSaveInstanceState,MainActivity,1.3e-05,0.005469
+onCreate,FilesActivity,0.002101,0.208423
+getListFiles,FilesActivity,5.8e-05,0.004816
+onSaveInstanceState,ViewActivity,0.000154,0.007078
+onDestroy,ViewActivity,0.000149,0.014203
+onCreate,ViewActivity,0.000667,1.093756
+onOptionsItemSelected,ViewActivity,4.9e-05,0.024545
+onDestroy,ViewActivity,0.000149,0.014203

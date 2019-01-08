@@ -1,0 +1,16 @@
+method,Activity,Excl,Incl
+setSizeAndTypeface,Editor,1.5e-05,0.004829
+defaultFile,Editor,4.5e-05,0.03237
+readFile,Editor,6.7e-05,0.024541
+setListeners,Editor,4e-05,0.000306
+onCreateOptionsMenu,Editor,0.000929,3.160256
+onPrepareOptionsMenu,Editor,0.005537,0.236203
+onPrepareOptionsMenu,Editor,0.005537,0.236203
+onOptionsItemSelected,Editor,6.7e-05,0.392665
+editClicked,Editor,2.5e-05,0.003475
+savePath,Editor,0.000268,0.00711
+onCreateOptionsMenu,Editor,0.000929,3.160256
+onPrepareOptionsMenu,Editor,0.005537,0.236203
+onPrepareOptionsMenu,Editor,0.005537,0.236203
+saveAs,Editor,0.000572,0.366528
+saveFile,Editor,3.1e-05,0.004829

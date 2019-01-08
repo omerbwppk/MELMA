@@ -1,0 +1,9 @@
+method,Activity,Excl,Incl
+saveNow,MainActivity,0.000265,0.062798
+onPause,MainActivity,0.00011,0.003419
+loadNow,MainActivity,0.000108,0.014515
+getPath,PathUtil,8.1e-05,0.000366
+themeRetro,MainActivity,7.7e-05,0.001859
+onStop,MainActivity,2.9e-05,0.02334
+onResume,MainActivity,1.9e-05,0.000901
+clickSaveButton,MainActivity,1.2e-05,0.037656

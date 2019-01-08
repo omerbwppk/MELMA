@@ -1,0 +1,17 @@
+method,Activity,Excl,Incl
+onAttach,First,1.9e-05,6e-05
+onCreateView,First,0.003026,0.396286
+integer,First,4.5e-05,0.000525
+morphToSquare,First,0.000532,0.086701
+dimen,First,0.000113,0.001492
+color,First,7.6e-05,0.000874
+selectImages,First,3.8e-05,0.005063
+onActivityResult,MainActivity,1.6e-05,0.060824
+onActivityResult,First,8.3e-05,0.060632
+integer,First,4.5e-05,0.000525
+morphToSquare,First,0.000532,0.086701
+dimen,First,0.000113,0.001492
+color,First,7.6e-05,0.000874
+onActivityResult,First,8.3e-05,0.060632
+onActivityResult,MainActivity,1.6e-05,0.060824
+onNavigationItemSelected,MainActivity,0.00445,0.010661

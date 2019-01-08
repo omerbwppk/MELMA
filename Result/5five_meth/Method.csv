@@ -1,0 +1,16 @@
+method,Activity,Excl,Incl
+one,MainActivity,0.000827,0.000827
+two,MainActivity,0.001731,0.001731
+three,MainActivity,0.002604,0.002604
+onCreate,one,0.00086,0.220635
+mm_ijk,one,3.868976,3.896806
+onCreate,MainActivity,0.000647,1.862499
+onCreate,two,0.000914,0.441292
+mm_ikj,two,3.899247,3.926132
+onCreate,three,0.00083,0.220478
+mm_jik,three,3.866895,3.894502
+onCreate,four,0.000839,0.218442
+mm_jki,four,4.419428,4.49915
+onCreate,five,0.000831,0.224798
+mm_kij,five,7.822202,7.862746
+mm_kij,five,7.822202,7.862746
